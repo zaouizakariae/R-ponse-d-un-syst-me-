@@ -273,4 +273,4 @@ grid on
 
 Sans frottement le régime est pseudo-périodique alors qu’avec frottement le régime est apériodique
 
-#THE END
+# THE END
